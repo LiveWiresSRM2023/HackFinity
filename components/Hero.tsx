@@ -37,12 +37,15 @@ const Hero = () => {
           </p>
 
           <TextGenerateEffect
-            words="Hackfinity - Innovate for Quality Education"
-            className="text-center text-4xl md:text-6xl lg:text-6xl "
+            words="Hackfinity 1.0"
+            className="text-center  text-5xl md:text-8xl lg:text-8xl "
           />
-
-          <p className="text-center md:tracking-wider mb-[40px] lg:mb-[10px] text-sm md:text-lg lg:text-2xl">
-            December 3-4, 2024 | SRMIST, Chennai
+          <TextGenerateEffect
+            words="Innovate for Quality Education" 
+            className="text-center text-4xl md:text-6xl mb-9 lg:text-6xl "
+          />
+          <p className="text-center md:tracking-wider mb-[40px] lg:mb-[10px] text-sm md:text-lg  lg:text-2xl">
+            December 3-4, 2024 | FSH, SRMIST
           </p>
 
           <div className="flex">
